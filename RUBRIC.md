@@ -310,4 +310,4 @@ Change control must preserve the seven dimensions and require consistent reasses
 
 ---
 
-© 2026 Brilliant AI Solutions LLC. Licensed under [CC BY 4.0](LICENSE).
+© 2026 Brilliant AI Solutions LLC. Licensed under [CC BY-NC 4.0](LICENSE).

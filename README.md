@@ -59,4 +59,4 @@ Brilliant AI Solutions helps colleges and universities turn AI ambition into pra
 
 ## License
 
-© 2026 Brilliant AI Solutions LLC. Licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](LICENSE). You may use and adapt this rubric with attribution to Brilliant AI Solutions.
+© 2026 Brilliant AI Solutions LLC. Licensed under [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](LICENSE). Institutions may use and adapt this rubric for non-commercial purposes with attribution to Brilliant AI Solutions. For commercial use or licensing, contact [bobby@brilliantaisolutions.com](mailto:bobby@brilliantaisolutions.com).

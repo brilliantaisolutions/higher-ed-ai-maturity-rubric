@@ -79,4 +79,4 @@ The workflow follows one sequence:
 
 ---
 
-© 2026 Brilliant AI Solutions LLC. Licensed under [CC BY 4.0](LICENSE).
+© 2026 Brilliant AI Solutions LLC. Licensed under [CC BY-NC 4.0](LICENSE).
